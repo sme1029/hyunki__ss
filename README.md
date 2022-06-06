@@ -25,9 +25,9 @@
 </br>
 <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/amazonamplify-orange?style=for-the-badge&logo=amazonsamplify&logoColor=white"> 
-<img src="https://img.shields.io/badge/route53-F7A81B?style=for-the-badge&logo=route53&logoColor=white">
-<img src="https://img.shields.io/badge/socketio-blue?style=for-the-badge&logo=socketio&logoColor=white">
+<img src="https://img.shields.io/badge/amazonamplify-orange?style=for-the-badge&logo=awsamplify&logoColor=white"> 
+<img src="https://img.shields.io/badge/route53-F7A81B?style=for-the-badge&logo=awsroute53&logoColor=white">
+<img src="https://img.shields.io/badge/socketio-blue?style=for-the-badge&logo=socket.io&logoColor=white">
 <br>
 </p>
 
