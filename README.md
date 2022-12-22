@@ -2,7 +2,7 @@
   
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayteeee&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
-  ### 🛠 Jaytee ⚙
+  ### 🛠 Seong ⚙
   
   ---
   
@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=black">
 <img src="https://img.shields.io/badge/axios-007CE2?style=for-the-badge&logo=axios&logoColor=white">
 </br>
-<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-DB7093?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/amazonamplify-orange?style=for-the-badge&logo=awsamplify&logoColor=white"> 
 <img src="https://img.shields.io/badge/route53-F7A81B?style=for-the-badge&logo=awsroute53&logoColor=white">
