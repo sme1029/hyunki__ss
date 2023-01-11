@@ -6,9 +6,9 @@
   
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsme1029&count_bg=%235B5C5B&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
  
-<!--   <a href="https://velog.io/@sme1029"> -->
+<a href="https://velog.io/@">
     <img src="https://img.shields.io/badge/velog-3DDC84?style=flat-square&logo=velog&logoColor=white"/></a>
-<!--   <a href="https://literate-change-d7c.notion.site/36d682ef263444ee89e78f6edf98602d"> -->
+<a href="https://literate-change-d7c.notion.site/">
     <img src="https://img.shields.io/badge/Seong-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
   
   * * *
